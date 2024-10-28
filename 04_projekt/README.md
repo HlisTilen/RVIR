@@ -35,8 +35,9 @@ Projekt morate obvezno zagovoriti pri asistentu (pred predstavitvijo). Prijavo n
 
 ## 4. Mejniki
 
-- **Mejnik 1:** Oddaja ideje projektne naloge - Rok: četrtek, 7. 11. 2024
-- **Mejnik 2:** Oddaja prototipne dokumentacije (projektno dokumentacijo dodajte na vaš git repozitorij) - Rok: petek, 22. 11. 2024
+- **Mejnik 1:** Oddaja ideje projektne naloge (dokument z idejo posreduje vodja ekipe profesorju) - Rok: **četrtek, 7. 11. 2024** 
+> Dokument z idejo mora vsebovati člane ekipe, opis projekta, uporabljene tehnologije in funkcionalnosti.
+- **Mejnik 2:** Oddaja prototipne dokumentacije (projektno dokumentacijo dodajte na vaš git repozitorij) - Rok: **petek, 22. 11. 2024**
 
 ## 5. Splošno
 - Razvoj poteka preko **javnega Git** repozitorija (GitHub, GitLab, Bitbucket).
