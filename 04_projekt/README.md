@@ -3,7 +3,7 @@
 **Leto:** 2024/2025  
 
 ## 1. Tema
-Tema projekta je lahko poljubna, cilj pa je ustvariti koristno in uporabno rešitev. Projekt lahko razvijate za katerokoli mobilno platformo.
+Tema projekta je lahko poljubna, cilj pa je ustvariti koristno in uporabno rešitev. Projekt lahko razvijate za katerokoli mobilno platformo s poljubno tehnologijo.
 
 ## 2. Točkovanje
 
